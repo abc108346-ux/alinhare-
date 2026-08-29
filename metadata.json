@@ -1,0 +1,6 @@
+{
+  "name": "Alinhare | Pilates e Fisioterapia Integrativa",
+  "description": "Site oficial da Alinhare Pilates e Fisioterapia Integrativa em Londrina - PR. Pilates, fisioterapia e liberação miofascial no Jardim Londrilar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
