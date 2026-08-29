@@ -188,7 +188,7 @@ export const NAV_LINKS = [
   { name: 'Início', href: '#inicio' },
   { name: 'Pilates', href: '#pilates' },
   { name: 'Fisioterapia', href: '#fisioterapia' },
-  { name: 'Liberação Miofascial', href: '#liberacao-miofascial' },
+  { name: 'Miofascial', href: '#liberacao-miofascial' },
   { name: 'O Espaço', href: '#espaco' },
   { name: 'Sobre', href: '#sobre' },
   { name: 'FAQ', href: '#faq' },
